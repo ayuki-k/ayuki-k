@@ -71,7 +71,7 @@
   - Date: 2023/08/29
   - Place: Tokyo
   - Award: 審査員特別賞　＆　優秀賞
-  - 参考：[NAISTHP]([https://ico-2021.jp/](http://isw3.naist.jp/IS/PubWG/Events-ja/2023/award20230829_katayama.html)http://isw3.naist.jp/IS/PubWG/Events-ja/2023/award20230829_katayama.html)
+  - 参考：[NAISTHP](https://ico-2021.jp/](http://isw3.naist.jp/IS/PubWG/Events-ja/2023/award20230829_katayama.html)http://isw3.naist.jp/IS/PubWG/Events-ja/2023/award20230829_katayama.html)
 - ALGOSMOから講師として膳所学童でプログラミング教室
   - Date: 2023/09/15 -
   - Place: Shiga
