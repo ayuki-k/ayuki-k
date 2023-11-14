@@ -81,7 +81,7 @@
 - ALGOSMOから講師として膳所学童でプログラミング教室
   - Date: 2023/09/15 -
   - Place: Shiga
-  - Position: 運営，　講師
+  - Position: 運営，講師
   - 参考：[ALGOSMO](https://four-forest-c7b.notion.site/ALGOSMO-a16609730ad64d4fb280f73d5e812475)
 - 関西テック・クリエイター・チャレンジ　採択
   - Date: 2023/10/01 -
