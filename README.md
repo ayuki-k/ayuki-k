@@ -24,10 +24,11 @@
   - Date: 2023/08/30 ポスターセッション（2）
   - Place： NLP若手の会 (YANS) 第18回シンポジウム (2023)
   - 参考： [NLP　若手の会HP](https://yans.anlp.jp/entry/yans2023program#1400-1500-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-2)
-- (予定)
-  - Author:
-  - Date:
-  - Place: NL研 
+- 「歴史的日本語資料を対象とした場所参照表現抽出 —「おくのほそ道」を例として—
+  - Author: 片山 歩希（NAIST），東山 翔平（NICT/NAIST），大内 啓樹（NAIST/理化学研究所），渡辺 太郎（NAIST）
+  - Date: 2023/12/02 
+  - Place: 第10回自然言語処理シンポジウム(NL研) 高騰発表
+  - 参考：　[情報処理学会 自然言語処理(NL)研究会](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)
 
 # 課外活動
 ## 2016/4 - 2021/3
@@ -80,11 +81,21 @@
 - ALGOSMOから講師として膳所学童でプログラミング教室
   - Date: 2023/09/15 -
   - Place: Shiga
+  - Position: 運営，　講師
   - 参考：[ALGOSMO](https://four-forest-c7b.notion.site/ALGOSMO-a16609730ad64d4fb280f73d5e812475)
-- 株式会社I co. OOC就任
+- 関西テック・クリエイター・チャレンジ　採択
+  - Date: 2023/10/01 -
+  - Place: Online, Fukuoka
+  - Award: 採択
+  - 参考：[関西テック・クリエイター・チャレンジHP](https://kansai-tcc.dle.or.jp/)
+- 株式会社I co. COO就任
   - Date: 2023/11/01-
   - Place: Nara
   - 参考：[株式会社Ico.](https://ico-2021.jp/)
-- インターン
-  - Date: 2023/11/01-
+- 日立システムズ　データサイエンス推進本部　インターン
+  - Date: 2023/11/01-14
   - Place: Online
+- Cierpa & Company 長期インターン
+  - Date: 2023/11/01
+  - Place: Online
+  - 参考：　[Cierpa](https://cierpa.co.jp/)
