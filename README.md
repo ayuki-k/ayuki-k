@@ -27,7 +27,7 @@
 - 「歴史的日本語資料を対象とした場所参照表現抽出 —「おくのほそ道」を例として—
   - Author: 片山 歩希（NAIST），東山 翔平（NICT/NAIST），大内 啓樹（NAIST/理化学研究所），渡辺 太郎（NAIST）
   - Date: 2023/12/02 
-  - Place: 第10回自然言語処理シンポジウム(NL研) 高騰発表
+  - Place: 第10回自然言語処理シンポジウム(NL研) 口頭発表
   - 参考：　[情報処理学会 自然言語処理(NL)研究会](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)
 
 # 課外活動
@@ -73,6 +73,10 @@
 
 ## 2023/4 -
 奈良先端科学技術大学院大学（NAIST）　先端科学技術研究科　先端科学技術専攻　[自然言語処理学　渡辺太郎研究室](https://nlp.naist.jp/ja/)
+- NAIST_起業部（NINE）　副代表　就任
+  - Date: 2023/04/01
+  - Place: NARA
+  - 参考：[NAIST_NINE](https://nine-naist.org/)
 - YANS分野交流ハッカソン　W受賞
   - Date: 2023/08/29
   - Place: Tokyo
