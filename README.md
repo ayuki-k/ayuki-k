@@ -88,18 +88,20 @@
   - Position: 運営，講師
   - 参考：[ALGOSMO](https://four-forest-c7b.notion.site/ALGOSMO-a16609730ad64d4fb280f73d5e812475)
 - 関西テック・クリエイター・チャレンジ　採択
-  - Date: 2023/10/01 -
+  - Date: 2023/10/01 - 2024/03/01
   - Place: Online, Fukuoka
   - Award: 採択
   - 参考：[関西テック・クリエイター・チャレンジHP](https://kansai-tcc.dle.or.jp/)
 - 株式会社I co. COO就任
-  - Date: 2023/11/01-
+  - Date: 2023/11/01 - 2024/01/31
   - Place: Nara
   - 参考：[株式会社Ico.](https://ico-2021.jp/)
 - 日立システムズ　データサイエンス推進本部　インターン
   - Date: 2023/11/01-14
   - Place: Online
 - Cierpa & Company 長期インターン
-  - Date: 2023/11/01
+  - Date: 2023/11/01-2024/02/28
   - Place: Online
   - 参考：　[Cierpa](https://cierpa.co.jp/)
+
+## 2025/04/01 - どこかへ
