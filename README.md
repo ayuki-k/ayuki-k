@@ -102,6 +102,6 @@
 - Cierpa & Company 長期インターン
   - Date: 2023/11/01-2024/02/28
   - Place: Online
-  - 参考：　[Cierpa](https://cierpa.co.jp/)
+  - 参考：[Cierpa](https://cierpa.co.jp/)
 
 ## 2025/04/01 - どこかへ
