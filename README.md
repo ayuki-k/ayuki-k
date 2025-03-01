@@ -29,6 +29,21 @@
   - Date: 2023/12/02 
   - Place: 第10回自然言語処理シンポジウム(NL研) 口頭発表
   - 参考：　[情報処理学会 自然言語処理(NL)研究会](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)
+- Evaluating Language Models in Location Referring Expression Extraction from Early Modern and Contemporary Japanese Texts
+  - Author: Ayuki Katayama, Yusuke Sakai, Shohei Higashiyama, Hiroki Ouchi, Ayano Takeuchi, Ryo Bando, Yuta Hashimoto, Toshinobu Ogiso, Taro Watanabe
+  - Date: 2024/11/16
+  - Place: EMNLP workshop NLP4DH @Miami
+  - 参考：[Evaluating Language Models in Location Referring Expression Extraction from Early Modern and Contemporary Japanese Texts](https://aclanthology.org/2024.nlp4dh-1.33/)
+- 言語モデルの場所参照表現抽出性能の評価 ―近世・近代・現代日本語テキストを対象として―
+  - Author: 片山 歩希 (奈良先端科学技術大学院大学)、東山 翔平 (情報通信研究機構 / 奈良先端科学技術大学院大学)、大内 啓樹 (奈良先端科学技術大学院大学 / 理化学研究所)、坂井 優介 (奈良先端科学技術大学院大学)、竹内 綾乃 (国文学研究資料館)、坂東 諒 (国立国語研究所)、橋本 雄太 (国立歴史民俗博物館)、小木曽 智信 (国立国語研究所)、渡辺 太郎 (奈良先端科学技術大学院大学)
+  - Date: 2025/03/08
+  - Place: 「通時コーパス」シンポジウム 2025 @国立国語研究所
+  - 参考：[「通時コーパス」シンポジウム 2025](https://www.ninjal.ac.jp/events_jp/20250308a/)
+- 近世・近代・現代日本語テキストに対する場所参照表現抽出
+  - Author: 片山 歩希 (奈良先端科学技術大学院大学)、東山 翔平 (情報通信研究機構 / 奈良先端科学技術大学院大学)、大内 啓樹 (奈良先端科学技術大学院大学 / 理化学研究所)、坂井 優介 (奈良先端科学技術大学院大学)、竹内 綾乃 (国文学研究資料館)、坂東 諒 (国立国語研究所)、橋本 雄太 (国立歴史民俗博物館)、小木曽 智信 (国立国語研究所)、渡辺 太郎 (奈良先端科学技術大学院大学)
+  - Date: 2025/03/11
+  - Place: 言語処理学会第31回年次大会(NLP2025) E1:テーマセッション6: 人文学と言語処理(1) 　@長崎
+  - 参考：[言語処理学会第31回年次大会(NLP2025) ](https://www.anlp.jp/proceedings/annual_meeting/2025/#E1-5)
 
 # 課外活動
 ## 2016/4 - 2021/3
@@ -103,5 +118,18 @@
   - Date: 2023/11/01-2024/02/28
   - Place: Online
   - 参考：[Cierpa](https://cierpa.co.jp/)
+- アントレプレナーシップ教育イベントに参加
+  - Date: 2024/11/29
+  - Place: NAIST
+  - 参考：[アントレプレナーシップ教育イベントを開催（2024/11/29）](https://www.naist.jp/news/2024/12/011032.html)
+- 【イベント】  知識からビジョンへ—未来を拓くキャリアプラン- をLabbase様と共同主催
+  - Date: 2024/12/02
+  - Place: NAIST
+  - 参考：[【イベント】  知識からビジョンへ—未来を拓くキャリアプラン](https://nine-naist.org/2024/12/02/event-labbase2024/)
+- 超地域密着型ハッカソン開催！ をとよのていねい樣と共同主催
+  - Date: 2025/3/01-22
+  - Place: Online ＆ 大阪府豊能町
+  - 参考：[超地域密着型ハッカソン開催！](https://nine-naist.org/2025/01/10/toyono-hackathon/)
+
 
 ## 2025/04/01 - どこかへ
